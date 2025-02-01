@@ -10,6 +10,18 @@ website:
   title: "TEST: Alaska Region Data Management User Guide"
   page-navigation: true
 
+  page-footer:
+    center: 
+      - text: "About"
+        href: about.qmd
+      - text: "License"
+        href: license.md
+      - text: "Trademark"
+        href: trademark.qmd
+    right:
+      - text: "last mod: {{< meta date >}}"
+#        date: "now"
+  
   search:
     location: sidebar
     type: textbox

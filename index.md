@@ -1,5 +1,7 @@
 ---
-title: "AK Region Data Stewardship Team (v.3)"
+title: "AK Region Data Stewardship Team"
+date: "now"
+date-format: "iso"
 ---
 
 # Alaska Region Interim Data Management User Guide
@@ -25,4 +27,4 @@ For information related to U.S. Fish and Wildlife Service (USFWS) data managemen
 | Refuges                           | <p><img src="broken-reference" alt="" data-size="line"> Caylen Kelsey, Data Manager</p><p><a href="https://app.gitbook.com/u/O15eW17GQiOtRJu7axv3cUiNkYw1">caylen_kelsey@fws.gov</a></p>            |
 | Other                             | <p><img src="broken-reference" alt="" data-size="line"> Hilmar Maier, Regional Data Manager</p><p><a href="https://app.gitbook.com/u/580681dfe8591f10000a2a40">hilmar_maier@fws.gov</a></p>         |
 
-_Updated May 2022_
+Updated: {{< meta date >}}
