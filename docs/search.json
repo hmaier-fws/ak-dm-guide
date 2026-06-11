@@ -565,77 +565,33 @@
     ]
   },
   {
-    "objectID": "CHANGELOG.html#unmerged",
-    "href": "CHANGELOG.html#unmerged",
+    "objectID": "CHANGELOG.html#unmerged---v1.0.3",
+    "href": "CHANGELOG.html#unmerged---v1.0.3",
     "title": "Change Log",
     "section": "",
-    "text": "Update CHANGELOG.md\nUpdate readme.md\nUpdate contributing.md\nUpdate _quarto.yml\n\nrename nav bar link “original site” to “old site” (#11)\nadd suggested citation as left footer (#12)\nremove announcement bar\n\nUpdate using-the-regional-data-repository.md (#15)\nFix broken links and minor format edits (#8):\n\nworkflow.md\n“storage-options/index.md” (#13)\n\n\n\n\n\n\nAdd “storage-options/README.md” page\n\n\n\n\n\nDelete “appendix/summary.md” page (#8)\n\n\n\n\n\nhttps://github.com/USFWS/ak-dm-guide/pull/14",
+    "text": "Update CHANGELOG.md\nUpdate _quarto.yml\n\nrename nav bar link “original site” to “old site” (#11)\nadd suggested citation as left footer (#12)\nremove announcement bar\n\nUpdate using-the-regional-data-repository.md (#15)\nAdd “storage-options/README.md” page\nAssociated pull requests:\n\nhttps://github.com/USFWS/ak-dm-guide/pull/14\nhttps://github.com/USFWS/ak-dm-guide/pull/17\n\n\n\n\n\n\nUpdate readme.md\nUpdate contributing.md\nUpdate _quarto.yml to rename nav bar link “original site” to “old site” (#11)\nUpdate _quarto.yml to add suggested citation as left footer (#12)\nFix broken links on Long-term Storage Options page “storage-options/index.md” (#13)\nDelete “appendix/summary.md” page (#8)",
     "crumbs": [
       "Contact",
       "Change Log"
     ]
   },
   {
-    "objectID": "CHANGELOG.html#section",
-    "href": "CHANGELOG.html#section",
+    "objectID": "CHANGELOG.html#v1.0.2",
+    "href": "CHANGELOG.html#v1.0.2",
     "title": "Change Log",
     "section": "",
-    "text": "Open external links in new window\nFixed miscellaneous broken links\nMoved files from /share/untitled to /share\nAdded link to feedback form",
+    "text": "Update Main branch (PR #10)\n\n\n\n\nFix broken links and minor edits in workflow.md\nAssociated pull requests:\n\nhttps://github.com/USFWS/ak-dm-guide/pull/9\n\n\n\n\n\n\nOpen external links in new window\nFixed miscellaneous broken links\nMoved files from /share/untitled to /share\nAdded link to feedback form\n\n\n\n\n\nAdd anchors to section headings (anchor-sections = true)\nCleanup formatting in “acquire” directory\nCleanup formatting in “appendix” directory\nCleanup formatting in “background” directory\nCleanup formatting in “fundamental-activities” directory\nCleanup formatting in “planning” directory\nCleanup formatting in “storage-options” directory\nRenamed images:\n\n“figure1.PNG” to “data-project-compare.png”\n“image (1) (1).png” to “data-project-compare-2.png”\n“image (2).png” to “rdr-tree-fes-ex.png”\n“image (3) (1).png” to “repo-plus-ex.png”\n“image (9) (1).png” to “prod-plus-ex.png”\n“image (2) (1).png” to “producer-plus-ex.png”\n“image (10) (1).png” to “contact-plus-ex.png”\n“image (13).png” to “file-type-icons.png”\n“image (14).png” to “rdr-path.png”\n“image (16).png” to “rdr-horiz.png”\n\nDeleted empty “page-2.md”\nDeleted duplicate images:\n\n“archive-layout.png” (= “rdr-structure.png”)\n“contents.png” (= “contents-1200px.png”)\n“image.png” (= “rdr-horiz.png”\n“image (14).png” (= “rdr-path.png”)\n\n\n\n\n\n\nAdd appendix to table of contents\nUpdated workflow.md\nCleanup formatting for files in “/alaska-data-management-101”\n\nalaska-regional-data-repository.md\ndata-management-policy.md\nchangelog-best-practices.md\n\nRenamed images:\n\n“image (10).png” to “ak-workflow.png”\n“image (8).png” to “rdr-path.png”\n“image (9).png” to “rdr-structure.png”\n“image (2) (2).png” to “contents-1200px.png”\n\n\n\n\n\n\nManually ordered first level content entries to match original guide\nRenamed “four-fundamental-activities-of-data-management” to “fundamental-activities”\nRenamed “long-term-storage-options” to “storage-options”\nRenamed “sharing-1” to “share”\nRenamed “long-term-storage-options” to “storage-options”\nChanged “Edit this page” link to reference the USFWS dev branch\n\n\n\n\n\nMoved contents from /.gitbook/assets/ to /assets/\n\n\n\n\n\nAdded CONTRIBUTING.md\nAdded CHANGELOG.md\nMoved all files to subdirectories\nUpdated _quarto.yml\nReplaced all {% hint style=\"info\" %} code blocks with ::: {.callout-note} code blocks\nReplaced all {% hint style=\"danger\" %} code blocks with ::: {.callout-important} code blocks\nReplaced all {% hint style=\"warning\" %} code blocks with ::: {.callout-warning} code blocks\nReplaced all {% hint style=\"success\" %} code blocks with ::: {.callout-tip} code blocks",
     "crumbs": [
       "Contact",
       "Change Log"
     ]
   },
   {
-    "objectID": "CHANGELOG.html#section-1",
-    "href": "CHANGELOG.html#section-1",
+    "objectID": "CHANGELOG.html#v1.0.1",
+    "href": "CHANGELOG.html#v1.0.1",
     "title": "Change Log",
     "section": "",
-    "text": "Add anchors to section headings (anchor-sections = true)\nCleanup formatting in “acquire” directory\nCleanup formatting in “appendix” directory\nCleanup formatting in “background” directory\nCleanup formatting in “fundamental-activities” directory\nCleanup formatting in “planning” directory\nCleanup formatting in “storage-options” directory\nDeleted empty “page-2.md”\nRenamed images:\n\n“figure1.PNG” to “data-project-compare.png”\n“image (1) (1).png” to “data-project-compare-2.png”\n“image (2).png” to “rdr-tree-fes-ex.png”\n“image (3) (1).png” to “repo-plus-ex.png”\n“image (9) (1).png” to “prod-plus-ex.png”\n“image (2) (1).png” to “producer-plus-ex.png”\n“image (10) (1).png” to “contact-plus-ex.png”\n“image (13).png” to “file-type-icons.png”\n“image (14).png” to “rdr-path.png”\n“image (16).png” to “rdr-horiz.png”\n\nDeleted duplicate images:\n\n“archive-layout.png” (= “rdr-structure.png”)\n“contents.png” (= “contents-1200px.png”)\n“image.png” (= “rdr-horiz.png”\n“image (14).png” (= “rdr-path.png”)",
-    "crumbs": [
-      "Contact",
-      "Change Log"
-    ]
-  },
-  {
-    "objectID": "CHANGELOG.html#section-2",
-    "href": "CHANGELOG.html#section-2",
-    "title": "Change Log",
-    "section": "",
-    "text": "Add appendix to table of contents\nUpdated workflow.md\nCleanup formatting for files in “/alaska-data-management-101”\n\nalaska-regional-data-repository.md\ndata-management-policy.md\nchangelog-best-practices.md\n\nRenamed images: -“image (10).png” to “ak-workflow.png”\n\n“image (8).png” to “rdr-path.png”\n“image (9).png” to “rdr-structure.png”\n“image (2) (2).png” to “contents-1200px.png”",
-    "crumbs": [
-      "Contact",
-      "Change Log"
-    ]
-  },
-  {
-    "objectID": "CHANGELOG.html#section-3",
-    "href": "CHANGELOG.html#section-3",
-    "title": "Change Log",
-    "section": "",
-    "text": "Manually ordered first level content entries to match original guide\nRenamed “four-fundamental-activities-of-data-management” to “fundamental-activities”\nRenamed “long-term-storage-options” to “storage-options”\nRenamed “sharing-1” to “share”\nRenamed “long-term-storage-options” to “storage-options”\nChanged “Edit this page” link to reference the USFWS dev branch",
-    "crumbs": [
-      "Contact",
-      "Change Log"
-    ]
-  },
-  {
-    "objectID": "CHANGELOG.html#section-4",
-    "href": "CHANGELOG.html#section-4",
-    "title": "Change Log",
-    "section": "",
-    "text": "Moved contents from /.gitbook/assets/ to /assets/",
-    "crumbs": [
-      "Contact",
-      "Change Log"
-    ]
-  },
-  {
-    "objectID": "CHANGELOG.html#section-5",
-    "href": "CHANGELOG.html#section-5",
-    "title": "Change Log",
-    "section": "",
-    "text": "Added CONTRIBUTING.md\nAdded CHANGELOG.md\nMoved all files to subdirectories\nUpdated _quarto.yml\nReplaced all {% hint style=\"info\" %} code blocks with ::: {.callout-note} code blocks\nReplaced all {% hint style=\"danger\" %} code blocks with ::: {.callout-important} code blocks\nReplaced all {% hint style=\"warning\" %} code blocks with ::: {.callout-warning} code blocks\nReplaced all {% hint style=\"success\" %} code blocks with ::: {.callout-tip} code blocks",
+    "text": "Published updates (PR #7)",
     "crumbs": [
       "Contact",
       "Change Log"
@@ -1182,39 +1138,6 @@
       "Contact",
       "Long-term Storage Options",
       "Public Accessible Repositories"
-    ]
-  },
-  {
-    "objectID": "CHANGELOG.html#unmerged---v1.0.3",
-    "href": "CHANGELOG.html#unmerged---v1.0.3",
-    "title": "Change Log",
-    "section": "",
-    "text": "Update CHANGELOG.md\nUpdate _quarto.yml\n\nrename nav bar link “original site” to “old site” (#11)\nadd suggested citation as left footer (#12)\nremove announcement bar\n\nUpdate using-the-regional-data-repository.md (#15)\nAdd “storage-options/README.md” page\nAssociated pull requests:\n\nhttps://github.com/USFWS/ak-dm-guide/pull/14\nhttps://github.com/USFWS/ak-dm-guide/pull/17\n\n\n\n\n\n\nUpdate readme.md\nUpdate contributing.md\nUpdate _quarto.yml to rename nav bar link “original site” to “old site” (#11)\nUpdate _quarto.yml to add suggested citation as left footer (#12)\nFix broken links on Long-term Storage Options page “storage-options/index.md” (#13)\nDelete “appendix/summary.md” page (#8)",
-    "crumbs": [
-      "Contact",
-      "Change Log"
-    ]
-  },
-  {
-    "objectID": "CHANGELOG.html#v1.0.2",
-    "href": "CHANGELOG.html#v1.0.2",
-    "title": "Change Log",
-    "section": "",
-    "text": "Update Main branch (PR #10)\n\n\n\n\nFix broken links and minor edits in workflow.md\nAssociated pull requests:\n\nhttps://github.com/USFWS/ak-dm-guide/pull/9\n\n\n\n\n\n\nOpen external links in new window\nFixed miscellaneous broken links\nMoved files from /share/untitled to /share\nAdded link to feedback form\n\n\n\n\n\nAdd anchors to section headings (anchor-sections = true)\nCleanup formatting in “acquire” directory\nCleanup formatting in “appendix” directory\nCleanup formatting in “background” directory\nCleanup formatting in “fundamental-activities” directory\nCleanup formatting in “planning” directory\nCleanup formatting in “storage-options” directory\nRenamed images:\n\n“figure1.PNG” to “data-project-compare.png”\n“image (1) (1).png” to “data-project-compare-2.png”\n“image (2).png” to “rdr-tree-fes-ex.png”\n“image (3) (1).png” to “repo-plus-ex.png”\n“image (9) (1).png” to “prod-plus-ex.png”\n“image (2) (1).png” to “producer-plus-ex.png”\n“image (10) (1).png” to “contact-plus-ex.png”\n“image (13).png” to “file-type-icons.png”\n“image (14).png” to “rdr-path.png”\n“image (16).png” to “rdr-horiz.png”\n\nDeleted empty “page-2.md”\nDeleted duplicate images:\n\n“archive-layout.png” (= “rdr-structure.png”)\n“contents.png” (= “contents-1200px.png”)\n“image.png” (= “rdr-horiz.png”\n“image (14).png” (= “rdr-path.png”)\n\n\n\n\n\n\nAdd appendix to table of contents\nUpdated workflow.md\nCleanup formatting for files in “/alaska-data-management-101”\n\nalaska-regional-data-repository.md\ndata-management-policy.md\nchangelog-best-practices.md\n\nRenamed images:\n\n“image (10).png” to “ak-workflow.png”\n“image (8).png” to “rdr-path.png”\n“image (9).png” to “rdr-structure.png”\n“image (2) (2).png” to “contents-1200px.png”\n\n\n\n\n\n\nManually ordered first level content entries to match original guide\nRenamed “four-fundamental-activities-of-data-management” to “fundamental-activities”\nRenamed “long-term-storage-options” to “storage-options”\nRenamed “sharing-1” to “share”\nRenamed “long-term-storage-options” to “storage-options”\nChanged “Edit this page” link to reference the USFWS dev branch\n\n\n\n\n\nMoved contents from /.gitbook/assets/ to /assets/\n\n\n\n\n\nAdded CONTRIBUTING.md\nAdded CHANGELOG.md\nMoved all files to subdirectories\nUpdated _quarto.yml\nReplaced all {% hint style=\"info\" %} code blocks with ::: {.callout-note} code blocks\nReplaced all {% hint style=\"danger\" %} code blocks with ::: {.callout-important} code blocks\nReplaced all {% hint style=\"warning\" %} code blocks with ::: {.callout-warning} code blocks\nReplaced all {% hint style=\"success\" %} code blocks with ::: {.callout-tip} code blocks",
-    "crumbs": [
-      "Contact",
-      "Change Log"
-    ]
-  },
-  {
-    "objectID": "CHANGELOG.html#v1.0.1",
-    "href": "CHANGELOG.html#v1.0.1",
-    "title": "Change Log",
-    "section": "",
-    "text": "Published updates (PR #7)",
-    "crumbs": [
-      "Contact",
-      "Change Log"
     ]
   }
 ]
