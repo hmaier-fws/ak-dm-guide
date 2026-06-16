@@ -2,9 +2,10 @@
 
 Updates made to the Data Management User Guide
 
-## Unmerged - v1.0.3
+## 20260611 - v1.0.3
 
-### 
+- Update Main branch ([PR #22](https://github.com/USFWS/ak-dm-guide/pull/22))
+- Update Main branch ([PR #24](https://github.com/USFWS/ak-dm-guide/pull/24))
 
 ### 20260610:
 - Update CHANGELOG.md
@@ -13,10 +14,9 @@ Updates made to the Data Management User Guide
   - add suggested citation as left footer ([#12](https://github.com/USFWS/ak-dm-guide/issues/12))
   - remove announcement bar
 - Update using-the-regional-data-repository.md ([#15](https://github.com/USFWS/ak-dm-guide/issues/15))
-
 - Add "storage-options/README.md" page
 
-- Associated pull requests:
+Associated pull requests:
   - https://github.com/USFWS/ak-dm-guide/pull/14
   - https://github.com/USFWS/ak-dm-guide/pull/17
 
