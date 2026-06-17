@@ -1,5 +1,6 @@
 # Quarto files (https://quarto.org/)
 
+/docs/
 /.quarto/
 log-quarto.txt
 
