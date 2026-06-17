@@ -2,6 +2,13 @@
 
 Updates made to the Data Management User Guide
 
+### 20260616
+
+- Added obtaining-rdr-folder.md
+- Added rdr-program-codes.md
+- Moved "Obtaining Your RDR Project Folder" section from using-the-regional-data-repository.md to obtaining-rdr-folder.md
+
+
 ## 20260611 - v1.0.3
 
 - Update Main branch ([PR #22](https://github.com/USFWS/ak-dm-guide/pull/22))

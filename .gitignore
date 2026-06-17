@@ -1,6 +1,7 @@
 # Quarto files (https://quarto.org/)
 
 /.quarto/
+/docs/
 log-quarto.txt
 
 *.bak
