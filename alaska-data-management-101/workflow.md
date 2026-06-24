@@ -26,7 +26,7 @@ If your are starting your metadata from scratch, this [training video](https://w
 
 ## 3: Collect and Clean your Data
 
-After acquiring your data, prepare your data for re-use.  This means that the data tables are tidy, open source, and have passed quality control checks.  Tidy data means that each column is a type of data, each row is a single data entry, and values are present throughout the table.  For more tips on tidy data, check out this [training video](https://web.microsoftstream.com/video/63c21ffc-4359-4ed9-b23b-6b549c993f4a). Also see the [Quality Management](broken-reference) and [Acquire section](broken-reference) of this guidance.
+After acquiring your data, prepare your data for re-use.  This means that the data tables are tidy, open source, and have passed quality control checks.  Tidy data means that each column is a type of data, each row is a single data entry, and values are present throughout the table.  For more tips on tidy data, check out this [training video](https://web.microsoftstream.com/video/63c21ffc-4359-4ed9-b23b-6b549c993f4a). Also see the [Quality Management](/fundamental-activities/quality-management.md) and [Acquire](/acquire) sections of this guidance.
 
 Don't forget to prepare a data dictionary that defines your column names, measurement units, and any codes found in the dataset.  This is necessary for others to be able to understand the data.
 
@@ -35,17 +35,12 @@ Don't forget to prepare a data dictionary that defines your column names, measur
 
 Once your data is cleaned, complete your data product metadata.  If you included the dataset in your DMP, you have a data Product metadata record ready to be completed.  See the [product metadata creation](broken-reference) section of this guide.  Both raw data and final, clean data should be documented with metadata.
 
-When your metadata is complete, ask your data manager if a persistent identifiers is appropriate for you project or products.  A [Digital Object Identifier](broken-reference) is one persistent identifier option.  This is essentially a Social Security number for your dataset.  It creates a permanent citation link for your data so that it can be referenced in reports, publications, or larger data analysis, in addition to making your data more discoverable.
+When your metadata is complete, ask your data manager if a persistent identifiers is appropriate for you project or products.  A [Digital Object Identifier](/share/obtaining-a-digital-object-identifier-doi.md) is one persistent identifier option.  This is essentially a Social Security number for your dataset.  It creates a permanent citation link for your data so that it can be referenced in reports, publications, or larger data analysis, in addition to making your data more discoverable.
 
 
 ## 5: Store Data and Metadata
 
-Your data and completed metadata is required to be made publicly available.  The [Alaska Regional Data Repository](https://ak-region-dst.gitbook.io/alaska-region-interim-data-management-user-guide/fundamental-activities/security-and-preservation) is a regional home for the preservation of Alaska authoritative data and completed metadata.  Use of the RDR enables data managers to access and share your metadata and data with public repositories as appropriate.
-
-
-::: {.callout-important}
-Currently, FWS does not have approved data repositories for Service-wide use.
-:::
+Your data and completed metadata is required to be made publicly available.  The [Alaska Regional Data Repository](/alaska-data-management-101/alaska-regional-data-repository.md) is a regional home for the preservation of Alaska authoritative data and completed metadata.  Use of the RDR enables data managers to access and share your metadata and data with public repositories as appropriate.
 
 
 ## 6: Share metadata and data publicly

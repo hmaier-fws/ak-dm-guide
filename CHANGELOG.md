@@ -2,6 +2,14 @@
 
 Updates made to the Data Management User Guide
 
+### in progress
+
+- Add /other-resources directory
+- Add /acquire/index.md
+
+- Fix broken links in workflow.md
+
+
 ### 20260616
 
 - Added obtaining-rdr-folder.md
