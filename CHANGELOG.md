@@ -10,6 +10,7 @@ Updates made to the Data Management User Guide
 - Fix broken links in workflow.md
 - Fix broken links in /alaska-data-management-101/alaska-regional-data-repository.md
 - Minor content updates to /alaska-data-management-101/alaska-regional-data-repository.md
+- Minor content updates to /fundamental-activities/establish-roles-and-responsibilities.md
 
 
 ### 20260616
