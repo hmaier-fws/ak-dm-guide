@@ -2,16 +2,23 @@
 
 Updates made to the Data Management User Guide
 
-### in progress
+### 20260625
 
 - Add /other-resources directory
 - Add /acquire/index.md
-
+- Added /assets/source to store files used to create images
+- Added rdr-tree-examples.pptx to /assets/source
+- Added front matter "order" parameter to files in /storage-options:
+  - obtaining-rdr-folder.md
+  - rdr-program-codes.md
+  - using-the-regional-data-repository.md
 - Fix broken links in workflow.md
 - Fix broken links in /alaska-data-management-101/alaska-regional-data-repository.md
 - Minor content updates to CONTRIBUTING.md
 - Minor content updates to /alaska-data-management-101/alaska-regional-data-repository.md
 - Minor content updates to /storage-options\using-the-regional-data-repository.md
+- Updated image rdr-tree-fes-ex.png use fescgl_001_MixedStockAnalysis project ([issue #19](https://github.com/USFWS/ak-dm-guide/issues/19))
+- Updated image rdr-path.png to use fescgl_001_MixedStockAnalysis project ([issue #19](https://github.com/USFWS/ak-dm-guide/issues/19))
 
 
 ### 20260616

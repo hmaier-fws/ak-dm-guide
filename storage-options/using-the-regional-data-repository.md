@@ -1,3 +1,7 @@
+---
+order: 1
+---
+
 # Using the Regional Data Repository
 
 The Alaska Regional Data Repository (RDR) is a centralized server dedicated to the long-term storage of regional projects and their products. It serves as an accessible and secure digital archive that contains authoritative copies of a project’s data, documents, and metadata. Your program’s data manager and technician are responsible for maintaining the RDR. The Alaska Region Data Stewardship Team (DST) sponsored the creation of the RDR and endorsed its use for the long-term preservation of regional projects and their products More information about the RDR is provided by the DST publication  [Alaska Regional Data Repository: purpose, organization, and management](https://iris.fws.gov/APPS/ServCat/Reference/Profile/150400).
