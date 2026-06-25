@@ -4,12 +4,14 @@ This page is the Alaska Region Data Stewardship Team (DST) registry of program a
 
 
 ### fes - Fisheries and Ecological Services
-- acof -
-- fcof -
-- frp - Fairbanks Recovery Program
-- kcof -
-- mmm –
-
+- cgl - Conservation Genetics Laboratory
+- hrp - Alaska Habitat Restoration Program
+- isp - Invasive Species Program
+- mmm - Marine Mammals Management
+- nae - Northern Alaska Field Office Ecological Services
+- naf - Northern Alaska Field Office Fisheries
+- sae - Southern Alaska Field Office Ecological Services
+- saf - Southern Alaska Field Office Fisheries
 
 ### mbm - Migratory Bird Management
 - lb - Landbirds

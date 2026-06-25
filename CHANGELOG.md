@@ -9,14 +9,15 @@ Updates made to the Data Management User Guide
 
 - Fix broken links in workflow.md
 - Fix broken links in /alaska-data-management-101/alaska-regional-data-repository.md
+- Minor content updates to CONTRIBUTING.md
 - Minor content updates to /alaska-data-management-101/alaska-regional-data-repository.md
-- Minor content updates to /fundamental-activities/establish-roles-and-responsibilities.md
+- Minor content updates to /storage-options\using-the-regional-data-repository.md
 
 
 ### 20260616
 
-- Added obtaining-rdr-folder.md
-- Added rdr-program-codes.md
+- Added /storage-options/obtaining-rdr-folder.md ([issue #16](https://github.com/USFWS/ak-dm-guide/issues/16))
+- Added /storage-options/rdr-program-codes.md ([issue #16](https://github.com/USFWS/ak-dm-guide/issues/16))
 - Moved "Obtaining Your RDR Project Folder" section from using-the-regional-data-repository.md to obtaining-rdr-folder.md
 
 
@@ -28,10 +29,10 @@ Updates made to the Data Management User Guide
 ### 20260610:
 - Update CHANGELOG.md
 - Update _quarto.yml
-  - rename nav bar link "original site" to "old site" ([#11](https://github.com/USFWS/ak-dm-guide/issues/11))
-  - add suggested citation as left footer ([#12](https://github.com/USFWS/ak-dm-guide/issues/12))
+  - rename nav bar link "original site" to "old site" ([issue #11](https://github.com/USFWS/ak-dm-guide/issues/11))
+  - add suggested citation as left footer ([issue #12](https://github.com/USFWS/ak-dm-guide/issues/12))
   - remove announcement bar
-- Update using-the-regional-data-repository.md ([#15](https://github.com/USFWS/ak-dm-guide/issues/15))
+- Update using-the-regional-data-repository.md ([issue #15](https://github.com/USFWS/ak-dm-guide/issues/15))
 - Add "storage-options/README.md" page
 
 Associated pull requests:
@@ -43,10 +44,10 @@ Associated pull requests:
 
 - Update readme.md
 - Update contributing.md
-- Update _quarto.yml to rename nav bar link "original site" to "old site" ([#11](https://github.com/USFWS/ak-dm-guide/issues/11))
-- Update _quarto.yml to add suggested citation as left footer ([#12](https://github.com/USFWS/ak-dm-guide/issues/12))
-- Fix broken links on Long-term Storage Options page "storage-options/index.md" ([#13](https://github.com/USFWS/ak-dm-guide/issues/13))
-- Delete "appendix/summary.md" page ([#8](https://github.com/USFWS/ak-dm-guide/issues/8))
+- Update _quarto.yml to rename nav bar link "original site" to "old site" ([issue #11](https://github.com/USFWS/ak-dm-guide/issues/11))
+- Update _quarto.yml to add suggested citation as left footer ([issue #12](https://github.com/USFWS/ak-dm-guide/issues/12))
+- Fix broken links on Long-term Storage Options page "storage-options/index.md" ([issue #13](https://github.com/USFWS/ak-dm-guide/issues/13))
+- Delete "appendix/summary.md" page ([issue #8](https://github.com/USFWS/ak-dm-guide/issues/8))
 
 
 ## 20250227 - v1.0.2
